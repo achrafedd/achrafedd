@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @achrafedd
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me achrafeddiba@gmail.com
 
 <!---
