@@ -2,4 +2,7 @@
 <h1>👩‍💻 About Me</h1>
 <p>
   Hi there 👋
+  I'm achraf from morocco 🇲🇦 i'm a Software Engineer student in ALX Africa.
 </p>
+<h1>📱 Social</h1>
+<h1>💻 Technologeis</h1>
