@@ -1,1 +1,1 @@
-<img src="(https://www.canva.com/design/DAFpGllsamk/7h52xR_Q6O_dpVIIO7KVSA/view?utm_content=DAFpGllsamk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" width="100%" height="100%">
+<img src="https://www.canva.com/design/DAFpGllsamk/7h52xR_Q6O_dpVIIO7KVSA/view?utm_content=DAFpGllsamk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100%" height="100%">
