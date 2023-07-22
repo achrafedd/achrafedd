@@ -4,13 +4,12 @@
   Hi there 👋
   I'm achraf from morocco 🇲🇦 i'm a Software Engineer student in ALX Africa.
 </p>
+
 <h1>📱 Social</h1>
-<a href="https://www.instagram.com/achrafedd/">
-  <img src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" width="50" heigth="50">
-</a>
-<a href="https://www.linkedin.com/in/achrafeddiba/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" heigth="50">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/achrafedd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achrafeddiba/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Muratalol)
+
 <h1>💻 Technologeis</h1>
 <span>  
   <img src="https://github.com/achrafedd/achrafedd/assets/69601953/13f33fdf-b421-4323-857d-5af4da83b0ed" >
