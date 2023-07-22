@@ -16,13 +16,13 @@
   <img src="https://github.com/achrafedd/achrafedd/assets/69601953/13f33fdf-b421-4323-857d-5af4da83b0ed" >
 </span>
 <span>
-  ![css](https://github.com/achrafedd/achrafedd/assets/69601953/501dc6b9-f21e-4c4d-8c49-42f40cd6ba96)
+  <img src="https://github.com/achrafedd/achrafedd/assets/69601953/501dc6b9-f21e-4c4d-8c49-42f40cd6ba96">
 </span>
 <span>
-  ![scss](https://github.com/achrafedd/achrafedd/assets/69601953/038626ba-ab73-4276-89ba-5397afd078df)
+  <img src="https://github.com/achrafedd/achrafedd/assets/69601953/038626ba-ab73-4276-89ba-5397afd078df">
 </span>
 <span>
-  ![JS](https://github.com/achrafedd/achrafedd/assets/69601953/6cf829b6-ef46-4cdb-8469-35f5e0cc2934)
+  <img src="https://github.com/achrafedd/achrafedd/assets/69601953/6cf829b6-ef46-4cdb-8469-35f5e0cc2934">
 </span>
 <span>
 
