@@ -34,9 +34,7 @@
   <img src="https://github.com/achrafedd/achrafedd/assets/69601953/d697988f-1027-46df-b935-cdb76bc148d2">
 </span>
 
-<div hight="50"></div>
-
-<div display="flex">
+<div display="flex" margin="20 0">
   <img src="https://github-readme-stats.vercel.app/api?username=achrafedd&show_icons=true&theme=dark" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" height="200">
 </div>
