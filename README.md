@@ -13,7 +13,7 @@
 </a>
 <h1>💻 Technologeis</h1>
 <span>  
-  ![HTML](https://github.com/achrafedd/achrafedd/assets/69601953/13f33fdf-b421-4323-857d-5af4da83b0ed)
+  <img src="https://github.com/achrafedd/achrafedd/assets/69601953/13f33fdf-b421-4323-857d-5af4da83b0ed" >
 </span>
 <span>
   ![css](https://github.com/achrafedd/achrafedd/assets/69601953/501dc6b9-f21e-4c4d-8c49-42f40cd6ba96)
