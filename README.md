@@ -6,9 +6,9 @@
 </p>
 <h1>📱 Social</h1>
 <a href="https://www.instagram.com/achrafedd/">
-  <img src="https://w7.pngwing.com/pngs/477/609/png-transparent-logo-computer-icons-instagram-logo-instagram-logo-miscellaneous-text-trademark.png" width="100" heigth="100">
+  <img src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" width="50" heigth="50">
 </a>
 <a href="https://www.linkedin.com/in/achrafeddiba/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="100" heigth="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" heigth="50">
 </a>
 <h1>💻 Technologeis</h1>
