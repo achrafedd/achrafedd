@@ -12,11 +12,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" heigth="50">
 </a>
 <h1>💻 Technologeis</h1>
-  <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="50" heigth="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" heigth="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="50" heigth="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50" heigth="50">
-  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="50" heigth="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" heigth="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="50" heigth="50">
+<img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="50" heigth="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" heigth="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="50" heigth="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50" heigth="50">
+<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="50" heigth="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" heigth="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="50" heigth="50">
   
