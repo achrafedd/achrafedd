@@ -13,37 +13,23 @@
 </a>
 <h1>💻 Technologeis</h1>
 <span>  
-  <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="50" heigth="50">
-  <br>
-  <span>HTML</span>
+  ![HTML](https://github.com/achrafedd/achrafedd/assets/69601953/13f33fdf-b421-4323-857d-5af4da83b0ed)
 </span>
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" heigth="50">
-  <br>
-  <span>HTML</span>
+  ![css](https://github.com/achrafedd/achrafedd/assets/69601953/501dc6b9-f21e-4c4d-8c49-42f40cd6ba96)
 </span>
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="50" heigth="50">
-  <br>
-  <span>HTML</span>
+  ![scss](https://github.com/achrafedd/achrafedd/assets/69601953/038626ba-ab73-4276-89ba-5397afd078df)
 </span>
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50" heigth="50">
-  <br>
-  <span>HTML</span>
+  ![JS](https://github.com/achrafedd/achrafedd/assets/69601953/6cf829b6-ef46-4cdb-8469-35f5e0cc2934)
 </span>
 <span>
-  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="50" heigth="50">
-  <br>
-  <span>HTML</span>
+
 </span>
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" heigth="50">
-  <br>
-  <span>HTML</span>
+
 </span>
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="50" heigth="50">
-  <br>
-  <span>HTML</span>
+
 </span>
