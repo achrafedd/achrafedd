@@ -1,9 +1,3 @@
-<style>
-  .tech {
-    display: flex;
-  }
-</style>
-
 <img src="https://github.com/achrafedd/achrafedd/assets/69601953/c541f234-faa7-4f8e-997a-930def53eab4" width="100%" height="100%">
 <h1>👩‍💻 About Me</h1>
 <p>
@@ -18,7 +12,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" heigth="50">
 </a>
 <h1>💻 Technologeis</h1>
-<div class="tech">
+<div style="display: flex;">
   <div>
     <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="50" heigth="50">
     <p>HTML</p>
