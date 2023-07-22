@@ -14,7 +14,8 @@
 <h1>💻 Technologeis</h1>
 <span>  
   <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="50" heigth="50">
-  <p>HTML</p>
+  <br>
+  <span>HTML</span>
 </span>
 <span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" heigth="50">
