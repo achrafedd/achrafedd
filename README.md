@@ -12,15 +12,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" heigth="50">
 </a>
 <h1>💻 Technologeis</h1>
-<div style="display: flex;">
-  <div>
+<div>
+  <span>
     <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" width="50" heigth="50">
     <p>HTML</p>
-  </div>
-  <div>
+  </span>
+  <span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" heigth="50">
     <p>CSS</p>
-  </div>
+  </span>
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="50" heigth="50">
     <p>SASS</p>
