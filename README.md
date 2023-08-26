@@ -21,8 +21,10 @@
 [![sass](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 [![js](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![React](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)
-[![React](https://img.shields.io/badge/-Sell-4EAA25?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=4EAA25)](#)
+[![c](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)
+[![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=4EAA25)](#)
+[![NODE](https://img.shields.io/badge/-Node-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=339933)](#)
+[![Express](https://img.shields.io/badge/-EJS-F7DF1E?style=for-the-badge&labelColor=black&logo=jss&logoColor=F7DF1E)](#)
 
 ## 🧰 Tools
 <div>
