@@ -5,7 +5,7 @@
 
 <p>
   Hi there 👋
-  I'm achraf from morocco 🇲🇦 i'm a Software Engineer student in ALX Africa.
+  I'm achraf from morocco 🇲🇦
 </p>
 
 <img src="https://github.com/achrafedd/achrafedd/assets/69601953/d2a17437-0777-4d1c-b600-d1e2dd30af2f" width="100%" />
@@ -29,12 +29,6 @@
     </td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="80" />
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width="80" />
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="80" />
     </td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" width="80" />
