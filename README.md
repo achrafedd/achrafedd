@@ -36,7 +36,7 @@
 
 ## 📊 Stats
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/aeddiba)](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/greenbinary/aeddiba)](https://github.com/oakoudad/badge42)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=achrafedd&show_icons=true&theme=dark" height="200">
