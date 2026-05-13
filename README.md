@@ -53,6 +53,8 @@ typedef struct  s_achraf
 
 <div align="center">
 
+[![<username>'s 42 stats](https://badge.mediaplus.ma/honeytones/aeddiba)](https://github.com/oakoudad/badge42)
+
 ![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafedd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafedd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
