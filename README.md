@@ -49,20 +49,6 @@ typedef struct  s_achraf
 
 ---
 
-## `$ ls -la projects/`
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| 🔧 **libft** | Custom C standard library reimplementation | `C` | ✅ Done |
-| 🖨️ **ft_printf** | Printf function from scratch | `C` | ✅ Done |
-| 📖 **get_next_line** | Read lines from file descriptors | `C` | ✅ Done |
-| 🐚 **minishell** | A mini Bash shell | `C` | 🔄 In progress |
-| 🧠 **more coming...** | Always building something new | `C / Python` | 🚧 Soon |
-
-> 💡 *Check pinned repositories below for the latest!*
-
----
-
 ## `$ ./stats.sh`
 
 <div align="center">
