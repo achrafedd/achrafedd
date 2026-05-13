@@ -50,18 +50,17 @@ typedef struct  s_achraf
 ---
 
 ## `$ ./stats.sh`
-
-<div align="center">
-
+ 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/honeytones/aeddiba)](https://github.com/oakoudad/badge42)
-
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafedd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafedd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
+</br>
+</br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=achrafedd&theme=tokyonight&hide_border=true)
-
-</div>
+</br>
+</br>
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/achrafedd?theme=gradient&font=%27JetBrains+Mono%27%2C+%27Courier+New%27%2C+monospace&template=minimal)
+</br>
+</br>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kernelx&theme=dracula)
 
 ---
 
