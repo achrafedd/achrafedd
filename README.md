@@ -1,44 +1,116 @@
-[//]: <> (<img src="https://github.com/achrafedd/achrafedd/assets/69601953/c541f234-faa7-4f8e-997a-930def53eab4" width="100%" height="100%">)
-# Hi there i'm achraf eddiba 👋🏼
+<div align="center">
 
-**`Software Developer`**
-<br />
+```
+ █████╗  ██████╗██╗  ██╗██████╗  █████╗ ███████╗
+██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝
+███████║██║     ███████║██████╔╝███████║█████╗  
+██╔══██║██║     ██╔══██║██╔══██╗██╔══██║██╔══╝  
+██║  ██║╚██████╗██║  ██║██║  ██║██║  ██║██║     
+╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
+```
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/achrafedd/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achrafeddiba/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kernelx00)
-![GitHub followers](https://img.shields.io/github/followers/achrafedd?label=Follow&style=social)
+### `achrafedd` · 42 Network · 1337 | UM6P 🇲🇦
 
-![banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=C+%2F+Python+Developer;42+Student+%40+1337+%7C+UM6P;Building+from+the+ground+up+%F0%9F%94%A5;printf(%22Hello%2C+World!%5Cn%22))](https://git.io/typing-svg)
 
-## 💻 Technologeis & Tools
-  <div align="center">
-    <table>
-      <tr>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/archlinux/archlinux-original.svg" width="80" /></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" width="80" /></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/neovim/neovim-original.svg" width="80" /></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" width="80" /></code></td>
-      </tr>
-      <tr>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" width="80" /></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" width="80" /></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width="80" /></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" width="80" /></code></td>
-      </tr>
-      <tr>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" width="80"></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" width="80"></code></td>
-        <td><code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" width="80"></code></td>
-      </tr>
-    </table>
-  </div>
+</div>
 
-## 📊 Stats
+---
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/greenbinary/aeddiba)](https://github.com/oakoudad/badge42)
+## `$ whoami`
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=achrafedd&show_icons=true&theme=dark" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" height="200">
+```c
+typedef struct  s_achraf
+{
+    char    *name;        // "Achraf Eddiba"
+    char    *school;      // "1337 | UM6P — 42 Network"
+    char    *location;    // "Morocco 🇲🇦"
+    char    **languages;  // { "C", "Python", "Shell", NULL }
+    char    *status;      // "Always compiling... 🔄"
+    bool    open_to_work; // true
+}               t_achraf;
+```
+
+---
+
+## `$ cat skills.txt`
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+</div>
+
+---
+
+## `$ ls -la projects/`
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🔧 **libft** | Custom C standard library reimplementation | `C` | ✅ Done |
+| 🖨️ **ft_printf** | Printf function from scratch | `C` | ✅ Done |
+| 📖 **get_next_line** | Read lines from file descriptors | `C` | ✅ Done |
+| 🐚 **minishell** | A mini Bash shell | `C` | 🔄 In progress |
+| 🧠 **more coming...** | Always building something new | `C / Python` | 🚧 Soon |
+
+> 💡 *Check pinned repositories below for the latest!*
+
+---
+
+## `$ ./stats.sh`
+
+<div align="center">
+
+![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafedd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafedd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=achrafedd&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## `$ cat philosophy.txt`
+
+```python
+def my_approach():
+    values = [
+        "Write clean code, even when no one is watching",
+        "Understand the fundamentals — the hard way builds character",
+        "At 1337, you either learn or you learn the hard way",
+        "Debug with printf() first, debugger second 🤫",
+    ]
+    return "\n".join(f"→ {v}" for v in values)
+
+print(my_approach())
+```
+
+---
+
+## `$ ping me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-achrafedd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafeddiba)
+[![Email](https://img.shields.io/badge/Email-aeddiba%40student.1337.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aeddiba@student.1337.ma)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Segmentation fault (core dumped) — but I fixed it. 💪
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=achrafedd&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
